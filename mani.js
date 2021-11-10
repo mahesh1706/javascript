@@ -16,7 +16,7 @@ console.log(result);
 
 let Avtor = "guna";
 
-const Age = 66;
+const Age = 16;
 
 let isYoung = true;
 
