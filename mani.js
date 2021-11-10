@@ -11,4 +11,21 @@ let number1 = 5;
 let number2 = 60;
 
 let result = number1 + number2 ;
-console.log(result);
+console.log(result); 
+
+
+let Avtor = "guna";
+
+const Age = 16;
+
+let isYoung = true;
+
+let lastName = undefined;
+
+let trophy = null;
+
+console.log(Avtor);
+
+console.log(Age);
+
+typeof isYoung;
